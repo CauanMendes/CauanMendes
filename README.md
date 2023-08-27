@@ -1,5 +1,5 @@
 # Olá👋, me chamo Cauan Mendes
-Sou estudante de desenvolvimento de sistema da escola estadual Deputado Salim Sedeh e estou estou estudando front-end e back-end para desenvolvimento web. Gosto sempre de estar aprendendo algo novo e de testar diferentes tecnologias, e esse meu github reflete muito bem esse meu lado curioso de ser.
+Sou estudante de desenvolvimento de sistema da escola estadual Deputado Salim Sedeh e estudo front-end e back-end para desenvolvimento web. Gosto sempre de estar aprendendo algo novo e de testar diferentes tecnologias, e esse meu github reflete muito bem esse meu lado curioso de ser.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanMendes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanMendes&hide=javascript,html)
