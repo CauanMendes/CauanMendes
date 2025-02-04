@@ -1,7 +1,7 @@
 # Olá👋, me chamo Cauan Mendes
-💻 Desenvolvedor em formação | Explorando front-end e back-end
-🎓 Técnico em Desenvolvimento de Sistemas pela Etec Salim Sedeh
-📚 Cursando Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor em formação | Explorando front-end e back-end<br>
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec Salim Sedeh<br>
+📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 🚀 Sempre aprendendo e testando novas tecnologias
 
 
