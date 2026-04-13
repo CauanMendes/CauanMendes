@@ -4,10 +4,6 @@
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 🚀 Sempre aprendendo e testando novas tecnologias
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanMendes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanMendes&hide=javascript,html)
-
 # Estudando:
 <div>
   <img align="center" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
