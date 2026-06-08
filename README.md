@@ -109,7 +109,7 @@ I enjoy turning ideas into practical applications, with special attention to cle
 <p align="center">
   I am open to collaborations, internship opportunities, freelance projects and conversations about software, products and technology.
 </p>
-username
+Cauan Mendes
 <p align="center">
   <a href="mailto:cauancunha585@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20email-020617?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" alt="Send an email" />
