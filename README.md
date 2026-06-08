@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/seuusuario">
+  <a href="https://github.com/CauanMendes">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=42&lines=Building+clean+digital+experiences;Mobile%2C+Web+and+Backend+development;Driven+by+architecture%2C+logic+and+impact;Always+learning.+Always+shipping." alt="Typing introduction" />
   </a>
 </p>
@@ -43,13 +43,13 @@ I enjoy turning ideas into practical applications, with special attention to cle
 ## `// current signal`
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=github_dark" alt="Cauan GitHub profile details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CauanMendes&theme=github_dark" alt="Cauan GitHub profile details" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seuusuario&theme=react-dark&hide_border=true&bg_color=020617&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=0891b2&custom_title=Contribution%20Flow" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CauanMendes&theme=react-dark&hide_border=true&bg_color=020617&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=0891b2&custom_title=Contribution%20Flow" alt="Contribution activity graph" />
 </div>
 
 <br />
@@ -109,12 +109,12 @@ I enjoy turning ideas into practical applications, with special attention to cle
 <p align="center">
   I am open to collaborations, internship opportunities, freelance projects and conversations about software, products and technology.
 </p>
-
+username
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:cauancunha585@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20email-020617?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" alt="Send an email" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/cauan-cunha-mendes-992b74227">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0f172a" alt="Connect on LinkedIn" />
   </a>
 </p>
